@@ -9,8 +9,7 @@
                                   [-l {DEBUG,INFO,WARNING,ERROR,CRITICAL}]
                                   host
     
-    This script compares actual bios settings and expected one which we got from
-    Altiostar testbed.
+    This script compares actual bios settings
     
     positional arguments:
       host                  target BMC ipv6 address or hostname.
